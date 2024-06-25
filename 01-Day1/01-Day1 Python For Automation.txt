@@ -1,0 +1,34 @@
+Python is Strongly Typed Language.
+i.e Hamile Different data types ko value lai concatenate garna sakidaina
+
+Example :
+
+a = 10
+b = "Hello"
+
+c = a + b
+print(c)   #Error aaucha as Hamile Integer and String lai concatenate garna mildaina
+
+
+-> Python Libraries For Automation
+
+1. Selenium : Web browser Automation
+2. BeautifulSoup : Web scraping
+3. Requests : Sending HTTP Requests
+4. Pandas : Data manipulation and analysis
+5. Schedule : Task scheduling
+6. PyAutoGUI : GUI Automation
+
+
+
+#PyAutoGUI
+
+-> Esle Mouse ra Keyboard lai control garcha
+
+-> import time 
+time.sleep(second_time) : esle delay garaucha time
+
+
+
+
+#Beautiful Soap
